@@ -20,3 +20,7 @@ We can run a single task using: `npx nx <target> <project>`:
 We can run all tasks with a certain name `npx nx run-many -t <target>`:
 
 - `target`: one of the target defined in `nx.json` `.targetDefaults`
+
+```
+test
+```
